@@ -21,13 +21,21 @@ Boolean function minimization is the process of simplifying Boolean algebraicexp
 For minimizing Boolean expressions,we can use a set of rules and laws (like distributive,associative, and complement laws) to simplify Boolean expressions. This methodfocuses on applying algebraic manipulations to reduce the complexity of the expressionby eliminating redundant terms.
 
 Identity Law A ⋅ 1 = A, A + 0 = A
+
 Null Law A ⋅ 0 = 0, A + 1 = 1
+
 Idempotent Law A ⋅ A = A, A + A = A
+
 Complement Law A ⋅ A′ = 0, A + A' = 1
+
 Distributive Law A ⋅ (B + C) = A ⋅ B + A ⋅ C
+
 De Morgan’s Law (A ⋅ B)′ = A′ + B', (A + B)′ = A′ ⋅ B′
+
 Absorption Law A ⋅ (A + B) = A, A + (A ⋅ B) = A
+
 Associative Law A + (B + C) = (A + B) + C, A.(B.C) = (A.B).C
+
 Commutative law A B = B A,A + B = B + A
 
 **Logic Diagram**
